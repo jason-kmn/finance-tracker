@@ -1,0 +1,2 @@
+# finance-tracker
+ # Finance Tracker Application Overview  The Finance Tracker application is a Node.js-based web application designed for managing personal finances. It allows users to securely register, log in, and track their financial transactions. Users can record income, expenses, and transfers, view transaction history, and manage their financial records seamlessly. Built with Node.js, Express.js, MongoDB, and Mongoose, this application ensures data security, scalability, and a user-friendly experience for effective financial management.
